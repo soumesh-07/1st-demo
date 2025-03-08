@@ -1,2 +1,3 @@
 # 1st-demo
-This is first new Git repository
+This is my first new Git repository
+author - Soumesh Pal
